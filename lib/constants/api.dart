@@ -2,7 +2,7 @@
 
 class Api {
   static String get baseUrl {
-    return "https://fuodz.thesnaptask.com/api";
+    return "http://restobox2.teampro.uz/api";
     // return "http://192.168.8.145:8000/api";
   }
 
